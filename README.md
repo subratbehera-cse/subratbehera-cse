@@ -109,11 +109,11 @@ Java Full Stack Developer | Spring Boot | React | MySQL
 
 **Tech:** Java • Spring Boot • React • MySQL • REST API
 
-🔗 [View Repository](https://github.com/subratbehera/medicare)
+🔗 [View Repository](https://github.com/subratbehera-cse/MedFind.git)
 
 ---
 
-### 💼 Project 2 — Add Your Best Project
+### 💼 Project 2 — Employe leave Portal
 
 > Short description of what the project does and the problem it solves.
 
